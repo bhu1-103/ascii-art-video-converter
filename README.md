@@ -13,4 +13,4 @@ dependencies:
 
 usage:
 
-`./run.sh $link` prove youtube video link here
+`./run.sh $link` provide youtube video link here
