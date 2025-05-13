@@ -1,4 +1,4 @@
-frames/
-frames-t/
+frames/*.png
+frames-t/*.txt
 video.webm
 audio.mp3
